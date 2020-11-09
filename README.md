@@ -1,6 +1,8 @@
 # AutoIrrigate
 
-This system aims at automating the irrigation process in agricultural fields in order to reduce manual labor and prevent the wastage of water by implementing drip irrigation. The prototype was built using a microcontroller, appropriate sensors and a servo motor.
+This system aims at automating the irrigation process in agricultural fields in order to reduce manual labor and prevent the wastage of water by implementing drip irrigation. The prototype was built using a microcontroller, appropriate sensors and a servo motor.<br/><br/>
+
+<img src="https://github.com/ArchPrak/AutoIrrigate/blob/main/prototype.PNG" alt ="Image" width="300" height="300"><br>
 
 ## Description
 1) The model is a small scale implementation of a system which can check the moisture content of the soil and irrigate it accordingly.
